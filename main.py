@@ -1,4 +1,4 @@
-import hello as hel
+import hello
 
 name = input('Name: ') 
-hel(name)
+hello.hello(name)
